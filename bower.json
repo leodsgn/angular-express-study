@@ -1,0 +1,26 @@
+{
+  "name": "angular-study",
+  "version": "0.0.0",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "authors": [
+    "Leo ribeiro"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "angular-route": "~1.3.14"
+  }
+}
